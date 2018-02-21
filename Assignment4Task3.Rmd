@@ -3,8 +3,6 @@ title: "Assignment4Task3"
 author: "Ying Sun"
 date: "2/20/2018"
 output:
-  word_document: default
-  html_document: default
 ---
 
 # Test_graph.r script
