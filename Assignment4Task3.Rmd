@@ -2,7 +2,7 @@
 title: "Assignment4Task3"
 author: "Ying Sun"
 date: "2/20/2018"
-output:
+output: html_document
 ---
 
 # Test_graph.r script
